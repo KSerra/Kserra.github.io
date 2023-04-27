@@ -31,4 +31,4 @@ For more information, please see my [CV](../Kendra_CV_8-13-22.pdf).
 - Ram Shankar Siva Kumar, David R. O’Brien, Kendra Albert, & Salomé Viljoen, Law and Adversarial Machine Learning, NeurIPS Workshop on Security in Machine Learning (selected for oral presentation), 2018.
 
 # Publications: Opinion
-- Kendra Albert & James Grimmelmann, [*Do the Right Thing*](../Do_The_Right_Thing.pdf)), Communications of the ACM (2023)
+- Kendra Albert & James Grimmelmann, [*Do the Right Thing*](../Do_the_Right_Thing.pdf)), Communications of the ACM (2023)
