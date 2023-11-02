@@ -39,6 +39,6 @@ I also hold an appointment as a lecturer on Studies of Women, Gender, and Sexual
 
 When I'm not working or teaching or writing, I try to make the world suck less. I consult on issues related to harassment, and I reinvest money from that work into community mutual aid. Other than that, I spend my free time reading, playing video games, and cooking.
 
-I post regularly on Mastodon at <a rel="me" href="https://dair-community.social/@kendraserra">@Kendraserra@dair-community.social</a>, and mostly lurk on [Bluesky](https://bsky.app/profile/kendraserra.bsky.social). I occasionally blog about things I've been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are [they/them/theirs](Gender). For more info on my background and accomplishments, feel free to peruse my [CV](.../uploads/Kendra_CV.pdf).
+I post regularly on Mastodon at <a rel="me" href="https://dair-community.social/@kendraserra">@Kendraserra@dair-community.social</a>, and mostly lurk on [Bluesky](https://bsky.app/profile/kendraserra.bsky.social). I occasionally blog about things I've been thinking about. Reach me by email at kendra dot serra at gmail dot com. My pronouns are [they/them/theirs](Gender). For more info on my background and accomplishments, feel free to peruse my [CV](/uploads/Kendra_CV.pdf).
 
 Photo by Kathy Pham.
