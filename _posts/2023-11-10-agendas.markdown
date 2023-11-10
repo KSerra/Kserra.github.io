@@ -1,0 +1,84 @@
+---
+title: Why Your Meeting Should Have an Agenda
+layout: post
+---
+If you work with me, you know that I am kind of a stickler about meeting agendas. I've gotten so (in)famous for it that one of my colleagues actually purchased me a plaque for my desk that says "no agenda, no meeting."
+
+<p align="right">
+   <img src="/uploads/agenda_plaque.jpg" alt="The top of a desk, with a keyboard taking much of the frame. At the back is a plaque that says 'no agenda, no meeting', next to a fidget cube, a cute plastic dumpster fire figurine, and a series of post it notes."/>
+</p> 
+
+If you're not already a person who uses agendas for meetings, this post is my attempt to convince you of why you should. If you are, you might find the suggested format (at the end) useful or inspiring!
+
+
+### Why meeting agendas? 
+
+Broadly, I think of the meeting agenda as a tool to make meetings both more productive and leave more space for being human.[^1] 
+
+What (good) meeting agendas do:
+
+* lay out topics for discussion in advance so people can do prep,
+* ensure that decisions are made and next steps are completed in a timely manner and do not fall through the cracks,
+* give the attendees shared ownership of meeting success and an understanding of what needs to be accomplished with the time.
+
+The more productive part is probably pretty straightforward - going down a list makes it easier to stay on topic! But the more human part can strike people as odd. 
+
+In my experience, agendas make meetings more relaxed. If the items that the team needs to discuss are clearly articulated, then it's clear how much time we have for checking in, or discussing stuff that's not strictly required - the human element that builds connection and allows for flexibility.
+
+I also find that having a shared agenda creates shared ownership. Rather than one person trying to get through a huge list of things, all attendees can understand the priority items and help figure out how to allocate collective discussion time. It also makes concrete, which allows for explicit allocation, of the labor of who preps for the meeting. A concrete template can function to disrupt unwritten rules and prevent reliance on the hidden curriculum about how meetings function.
+
+### Agenda Logistics:
+
+The purpose of the agenda is the thinking and prep, rather than rigid rule following. 
+
+I don’t think an agenda requirement should be a commitment to only discussing the items listed.  If something more important comes up, it can be useful to pivot and talk about that instead.  In some cases, if there’s not enough time for that discussion, I might suggest we come back to it, or schedule another meeting. Again, the purpose of the agenda is to allow for flexibility while making sure the essentials get handled.  Agendas can also mean that you can figure out whether to cancel the meeting - if there's really not anything to talk about, or it could have been an email, prepping in advance can help you figure that out before you get to the meeting.
+
+In my one-on-ones where there is a clear hierarchy, the more junior person usually creates the agenda. (My students create meeting agendas for me, I create meeting agendas for meetings with my boss, etc.) In meetings that are more consensus-based or between peers, there may be one person who is responsible for handling logistics (an admin or owner on a particular project), a person who is more agenda-minded (usually me, let's be honest), or it might make sense to rotate responsibilities. However, I would strongly suggest figuring out who is going to make the agenda, and if necessary, reminding folks to add things in advance.
+
+
+### Agenda Template User's Guide:
+
+This meeting agenda template is aimed at one-on-one meetings or small group meetings. I suspect the free-for-all addition of agenda items would not work past a certain size or for groups where what is up for discussion is not consensus-based. I will only add suggested time chunks if I am really concerned that we will not have enough time to discuss everything.
+
+Prior to March 2020, I used individual documents for each meeting agenda. Now, I usually have one shared running document that covers a long period of meetings (a semester, a year, etc). The most recent days are placed at the top (so that they're easy to find), with the previous agendas lower down in the document. The only thing to note here is that if you have a meeting where some of the contents might be confidential or not appropriate for future attendees, you will need to be careful to switch over to a new running document or redact any previous agenda items. If there is a calendar invite, I ask folks to link the meeting agenda in the description.
+
+Here's a [word version](https://docs.google.com/document/d/1v2nQRqM4In2OexNbe98vdtgOUE8opNC-/edit) of this template, with some sample items. A big shout-out to my long ago former student (and now practicing attorney) Andrei Gribokov Jaffe, whose agenda template was the one that mine is based on.[^2]
+
+
+### **Agenda Template:**
+
+[Date]
+
+<span style="text-decoration:underline;">Next Steps from Last Meeting (copied over):</span>
+
+_Before the meeting, whoever makes the agenda copies over the next steps from the previous week into the top of the meeting agenda. As prep, attendees review the agenda and determine if the next steps are done or if they need to still be done, or if there are blockers worth noting. Sometimes it makes sense to remove completed next steps, or strikethrough/annotate them!_
+
+<span style="text-decoration:underline;">Discussion Items:</span>
+
+_You can have standing discussion items - often this looks like specific projects or repeated topics. Any party to the meeting can also add specific discussion items. I often add items over the week between meetings as I think of them._
+
+_I usually ask people to include enough detail to allow for pre-thinking as necessary. It can be helpful to link out to other documents or materials if they are necessary background._
+
+_If I think an agenda item being on the list will cause stress ("feedback re: job performance"), I try to provide enough context to allow folks to emotionally prepare or otherwise be careful about what I’m writing._
+
+<span style="text-decoration:underline;">Parking Lot:</span>
+
+_For meetings where there are bigger decisions or things to come back to later, it can be useful to just keep those in a spot for future reference. This could be kept in a separate document, depending._
+
+<span style="text-decoration:underline;">Upcoming Dates:</span>
+
+_Vacation days, deadlines, holidays, meetings to prep for - those can all go here. For weekly meetings, these dates usually cover things about a month in advance. Having them here means that both parties can skim them in prep for the meeting/during the meeting to make sure there's not any discussion that needs to take place around them, or to spot potential conflicts._
+
+<span style="text-decoration:underline;">Next Steps:</span>
+
+_Generally filled in during the meeting, although sometimes folks know what their next steps are and put them in advance. Next steps should always have a person or persons assigned to them, and should ideally have a due date, although depending on the context, that part might be flexible._
+
+
+<!-- Footnotes themselves at the bottom. -->
+## Notes
+
+[^1]:
+     As context, in my current job, I usually have about 3-5 hours of meetings a day. These meetings often require a lot of context switching. I routinely have law students working on 10 different projects for clients at a time, and I definitely can't keep track of all of them off the top of my head. I especially think meeting agendas are helpful for clinical supervision. One of the consistent pieces of positive feedback that students give me is that they have become meeting agenda converts and have now taken a version of my required meeting agenda practice to other parts of their lives.
+
+[^2]:
+     When I say I learn from my students, I definitely mean it.
