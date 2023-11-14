@@ -42,7 +42,7 @@ This meeting agenda template is aimed at one-on-one meetings or small group meet
 
 Prior to March 2020, I used individual documents for each meeting agenda. Now, I usually have one shared running document that covers a long period of meetings (a semester, a year, etc). The most recent days are placed at the top (so that they're easy to find), with the previous agendas lower down in the document. The only thing to note here is that if you have a meeting where some of the contents might be confidential or not appropriate for future attendees, you will need to be careful to switch over to a new running document or redact any previous agenda items. If there is a calendar invite, I ask folks to link the meeting agenda in the description.
 
-Here's a [word version](https://docs.google.com/document/d/1v2nQRqM4In2OexNbe98vdtgOUE8opNC-/edit) of this template, with some sample items. A big shout-out to my long ago former student (and now practicing attorney) Andrei Gribokov Jaffe, whose agenda template was the one that mine is based on.[^2]
+Here's a [word version](https://docs.google.com/document/d/1v2nQRqM4In2OexNbe98vdtgOUE8opNC-/edit) of this template, with some sample items. A big shout-out to my long ago former student (and now practicing attorney) Andrei Gribakov Jaffe, whose agenda template was the one that mine is based on.[^2]
 
 
 ### **Agenda Template:**
