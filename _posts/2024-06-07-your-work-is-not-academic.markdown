@@ -2,7 +2,7 @@
 title: Your Work is Not Academic
 layout: post
 ---
- <em> Back in 2022, I had the honor of presenting at [Prefiguring and Resisting Tech: Towards Just Transitions](https://justtransitions.ucsd.edu/events/2022-prefiguring-and-resisting-tech-workshop) organized by Lilli Irani, Bonnie Fan, Sarah Fox, Vera Khovanskaya, and Esther Choi. They asked speakers to prepare a provocation in response to the question of "What are false solutions offered to the problems of technology and liberation?". This was mine:</em> 
+ <em> Back in 2022, I had the honor of presenting at [Prefiguring and Resisting Tech: Towards Just Transitions](https://justtransitions.ucsd.edu/events/2022-prefiguring-and-resisting-tech-workshop) organized by Lilly Irani, Bonnie Fan, Sarah Fox, Vera Khovanskaya, and Esther Choi. They asked speakers to prepare a provocation in response to the question of "What are false solutions offered to the problems of technology and liberation?". This was mine:</em> 
 
  In talking about false solutions, it would be easy to talk about technosolutionism, about the idea that technology will save us, but frankly, others have done it already and better than I would. I want to talk about "academic" work.
 
