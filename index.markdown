@@ -22,7 +22,9 @@ layout: home
 
 Hey there! I’m Kendra, a public interest technology lawyer and an "undisciplined" scholar of computing, gender, and society.
 
-Right now, I'm taking some time off. For the last seven years, I worked at the Cyberlaw Clinic at Harvard Law School, where I practiced (and taught students how to practice) technology law. I am a radical generalist and will work on pretty much anything technology-related. Some recent (public) highlights include:
+Right now, I'm taking some time off before starting [something new](https://www.albertsellars.law/). I am a radical generalist and will work on pretty much anything technology-related. 
+
+For the last seven years, I worked at the Cyberlaw Clinic at Harvard Law School, where I practiced (and taught students how to practice) technology law. Some (public) highlights include:
 
 *   Helping Fight for the Future, an digital rights advocacy organization, fight back against a [retaliatory and overbroad subpoena](https://www.fightforthefuture.org/news/2022-02-22-fight-for-the-future-statement-on-proctorios-attempt-to-silence-critics-through-legal-bullying) from Proctorio, an e-proctoring company.
 *   Working with sex worker art collective Veil Machine to provide legal support for their art show [E-Viction](https://veilmachine.com/E-Viction), that protested digital gentrification.
