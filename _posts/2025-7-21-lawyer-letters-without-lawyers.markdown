@@ -55,7 +55,7 @@ I worry about people using it because I’m not sure it will work. I don’t act
 
 If it does work, I don’t know how to feel. The more successful the letter is at fooling people (and we do have reports of it doing so), the more likely it is that someone might face adverse consequences for pretending that they are legally represented. When I was doing the initial legal research for this project, I could find almost no examples of legal action against non-lawyers for unauthorized practice of law for pretending to be represented by an attorney.
 
-But ultimately, I know that sometimes, having a lawyer-shaped entity show up is all it takes to get assholes to back down or go away.  I’m not heartbroken at the idea that someone who doesn’t have the resources to get an attorney might be able to tap into the power of the law via aesthetics. After all, I can’t represent [everyone who gets a silly letter](https://www.techdirt.com/2025/07/09/litigious-company-demands-removal-of-a-tweet-linking-to-an-article-about-how-litigious-they-are/). 
+But ultimately, sometimes, having a lawyer-shaped entity show up is all it takes to get assholes to back down or go away.  I’m not heartbroken at the idea that someone who doesn’t have the resources to get an attorney might be able to tap into the power of the law via aesthetics. After all, I can’t represent [everyone who gets a silly letter](https://www.techdirt.com/2025/07/09/litigious-company-demands-removal-of-a-tweet-linking-to-an-article-about-how-litigious-they-are/). 
 
 
 <!-- Footnotes themselves at the bottom. -->
@@ -71,7 +71,7 @@ But ultimately, I know that sometimes, having a lawyer-shaped entity show up is 
      To quote Annelise Riles' [work on documents](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1784&context=facpub), “As we will see, the document's principal aesthetic device involves an alternation between concreteness (the document as object) and abstraction (the document as pattern).” 
 
 [^4]:
-     See [this opinion](https://www.nycla.org/resource/ethics-opinion/ethics-opinion-612-1973-letterhead-listing-associates/) from the New York County Lawyers Association, specifying thatt letterhead must differentiate between partners and associates.
+     See [this opinion](https://www.nycla.org/resource/ethics-opinion/ethics-opinion-612-1973-letterhead-listing-associates/) from the New York County Lawyers Association, specifying that letterhead must differentiate between partners and associates.
 
 [^5]:
-     When Andy Sellars and I were thinking about how to present our law firm, I looked at a lot of law firm websites, and quickly discovered that there were a lot of solo or small firms that seemed to be presenting themselves as much bigger. (We ended up going the opposite direction.)
+     When Andy Sellars and I were thinking about how to present our law firm, I looked at a lot of law firm websites, and quickly discovered that there were a lot of solo or small firms that seemed to be presenting themselves as much bigger. (We ended up going the [opposite direction](https://www.albertsellars.law/).)
